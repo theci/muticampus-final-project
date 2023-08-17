@@ -1,6 +1,9 @@
 - 🎮 Six-Sigma
 # 프로젝트명 : 음식 추천 웹서비스
-표정기반 맛집추천 서비스 - The Born
+## 표정기반 맛집추천 서비스 - The Born
+![image](https://github.com/theci/muticampus-final-project/assets/110512212/f7b47186-3b10-427a-a46f-907d9efa97ed)
+
+
 
 ## 💡 서비스 및 프로젝트 소개
 1. 사용자 업로드 이미지 수집에 대한 사전 동의.(비동의 시 서비스 이용 불가)
@@ -42,19 +45,22 @@
 
 
 ## 🔧 사용 기술 스택
-Python 1.8
-scikitLearn
-MySQL 8.0
-Django
-Pandas
-Matlib
+- Python 1.8
+- scikitLearn
+- MySQL 8.0
+- Django
+- Pandas
+- Matlib
 
 🤖 프로젝트 아키텍처
-system_architecture
+![image](https://github.com/theci/muticampus-final-project/assets/110512212/4cf033b5-5c81-435f-add0-4823f233c7df)
 
-system_architecture
+
+![image](https://github.com/theci/muticampus-final-project/assets/110512212/698cc86f-ec7e-4bfc-8358-3e58c5ef1cb1)
+
 
 💾 ER Diagram
-erd
+![image](https://github.com/theci/muticampus-final-project/assets/110512212/3ef9ca5d-0bce-45e1-a5a3-4ba054d509ac)
+
 
 
