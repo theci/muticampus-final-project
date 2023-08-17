@@ -1,6 +1,8 @@
+- 🎮 Six-Sigma
 # 프로젝트명 : 음식 추천 웹서비스
+표정기반 맛집추천 서비스 - The Born
 
-## 서비스 설명 
+## 💡 서비스 및 프로젝트 소개
 1. 사용자 업로드 이미지 수집에 대한 사전 동의.(비동의 시 서비스 이용 불가)
 2. 사용자 얼굴 이미지를 업로드 받아 사용자의 현재 감정 파악(기쁨/슬픔/분노/중립)
 3. 실시간 날씨 데이터 크롤러를 통한 날씨 데이터 수집(비/눈/이외)
@@ -36,3 +38,23 @@
   - 더본코리아 매장 데이터/ 브랜드별 메뉴 데이터/ 실시간 날씨 데이터 수집 크롤러 제작(**BeautifulSoup,Selenium 활용**)
 - visualization
   - 웹 스크래핑으로 수집한 더본코리아 매장 위치 데이터 시각화(**folium라이브러리 활용**)
+ 
+
+
+## 🔧 사용 기술 스택
+Python 1.8
+scikitLearn
+MySQL 8.0
+Django
+Pandas
+Matlib
+
+🤖 프로젝트 아키텍처
+system_architecture
+
+system_architecture
+
+💾 ER Diagram
+erd
+
+
